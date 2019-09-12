@@ -66,3 +66,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 ##added gems:
 gem 'bcrypt', '~> 3.1', '>= 3.1.12'
 gem "rack-cors", :require => 'rack/cors'
+gem 'react_on_rails', '~> 11.3'
+gem 'webpacker', '~> 4.0', '>= 4.0.7'
